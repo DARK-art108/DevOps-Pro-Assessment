@@ -73,6 +73,7 @@ The repository contains the Ineuron DevOps assesment. The assesment contains 3 q
 
 ## How to Submit?
 
+* DEADLINE: 6th December 2022, Tuesday
 * You will recieve a google form for sharing the github link.Please make sure that your assesment should be uploaded in the github and free of plagarism.
 * You will be removed if any plagarism is founded!
 * All resources taken from official docs are allowed!

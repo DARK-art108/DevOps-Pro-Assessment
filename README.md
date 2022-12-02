@@ -71,6 +71,11 @@ The repository contains the Ineuron DevOps assesment. The assesment contains 3 q
 
    **NOTE:** Their is no coding required for this question. You have to create a System Design Document and a High Level Design Document for the platform.
 
+## How to Submit?
+
+* You will recieve a google form for sharing the github link.Please make sure that your assesment should be uploaded in the github and free of plagarism.
+* You will be removed if any plagarism is founded!
+* All resources taken from official docs are allowed!
 
 ## Questions: 
 

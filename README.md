@@ -2,7 +2,10 @@
 
 ## Introduction
 
-The repository contains the Ineuron DevOps assesment. The assesment contains 3 question's. Take any one question and complete it.
+The repository contains the Ineuron DevOps assesment. The assesment contains 3 question's. **Take any one question and complete it.**
+
+
+## Assesment
 
 1. Create a URL-Shortner service using any language of your choice. The service should be able to shorten a URL and return a shortened URL. The shortened URL should be able to redirect to the original URL.
 
@@ -37,38 +40,38 @@ The repository contains the Ineuron DevOps assesment. The assesment contains 3 q
 
 
 
-2. Design Amazon Web Services.
+3. Design Amazon Web Services.
 
-Consider a scenario where you are working as a Devops Engineer in a Amazon.Your team is working on a project where you need to design the initial draft of a platform known as Amazon Web Services.
+   Consider a scenario where you are working as a Devops Engineer in a Amazon.Your team is working on a project where you need to design the initial draft of a platform known as Amazon Web Services.
 
-The platform is a cloud computing platform that provides a set of remote computing services to users. The services include computing power, database storage, content delivery and other functionalities to help users scale and grow their applications.
+   The platform is a cloud computing platform that provides a set of remote computing services to users. The services include computing power, database storage, content delivery and other functionalities to help users scale and grow their applications.
 
-**Requirements:**
+   **Requirements:**
 
-* Functional requirements
-    * Users Should be able to choose different regions for their services. eg: US, Europe, Asia, etc.
-    * User should be able to choose different services like EC2, S3, RDS, etc.
-    * User should be able to choose different instance types, instance size for their services. eg: small, large, or extra large or gpu instance.
-    * User should be able to choose different storage types for their services. eg: SSD, HDD, etc.
+      * Functional requirements
+         * Users Should be able to choose different regions for their services. eg: US, Europe, Asia, etc.
+         * User should be able to choose different services like EC2, S3, RDS, etc.
+         * User should be able to choose different instance types, instance size for their services. eg: small, large, or extra large or gpu instance.
+         * User should be able to choose different storage types for their services. eg: SSD, HDD, etc.
 
-* Non-Functional requirements
-    * High availability with minimal latency.
-    * The system should be scalable and efficient.
+      * Non-Functional requirements
+         * High availability with minimal latency.
+         * The system should be scalable and efficient.
 
-* Additional requirements
-    * The system should be able to handle 1000 requests per second.
-    * The system should be able to handle 1000 concurrent users.
-    * The system should be able to handle 1000 concurrent connections.
+      * Additional requirements
+         * The system should be able to handle 1000 requests per second.
+         * The system should be able to handle 1000 concurrent users.
+         * The system should be able to handle 1000 concurrent connections.
 
-**Tasks:**
+   **Tasks:**
 
-* Create a System Design Document for the platform.
-* Create a High Level Design Document for the platform.
-* List out the devops tools that you will use for the platform.
+      * Create a System Design Document for the platform.
+      * Create a High Level Design Document for the platform.
+      * List out the best devops tools that you will use for the platform.
 
-**NOTE:** Their is no coding required for this question. You have to create a System Design Document and a High Level Design Document for the platform.
-
-Take a reference from the below links(Open-Source Blog):
-https://dev.to/karanpratapsingh/system-design-netflix-3d9g
+   **NOTE:** Their is no coding required for this question. You have to create a System Design Document and a High Level Design Document for the platform.
 
 
+## Questions: 
+
+If you have any questions about assesment or you feel stuck, feel free to ask me at [Ritesh](mailto:ritesh@ineuron.ai). Please do not hesitate to ask questions. I am here to help you. :)

@@ -7,7 +7,7 @@ The repository contains the Ineuron DevOps assesment. The assesment contains 3 q
 
 ## Assesment
 
-1. Create a URL-Shortner service using any language of your choice. The service should be able to shorten a URL and return a shortened URL. The shortened URL should be able to redirect to the original URL.
+1. **Create a URL-Shortner service using any language of your choice. The service should be able to shorten a URL and return a shortened URL. The shortened URL should be able to redirect to the original URL.**
 
     **Tasks:**
     * Create a System Design Document for the App.
@@ -19,7 +19,7 @@ The repository contains the Ineuron DevOps assesment. The assesment contains 3 q
     * Create a CI/CD pipeline for the application using Github Actions.
     * The pipeline should be able to deploy the application on EKS continuously when a new commit is pushed to the main branch.
 
-2. Deploy the below application on EKS using Terraform.
+2. **Deploy the below application on EKS using Terraform.**
 
     **About the application:**
 
@@ -37,10 +37,11 @@ The repository contains the Ineuron DevOps assesment. The assesment contains 3 q
     * Write the kubernetes manifest for the application.
     * Provision an EKS cluster on AWS using Terraform.
     * Deploy the application on EKS.
+    * Perform Continuous deployment using Jenkins.(**Optional**)
 
 
 
-3. Design Amazon Web Services.
+3. **Design Amazon Web Services.**
 
    Consider a scenario where you are working as a Devops Engineer in a Amazon.Your team is working on a project where you need to design the initial draft of a platform known as Amazon Web Services.
 

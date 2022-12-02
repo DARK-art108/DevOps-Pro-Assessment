@@ -1,8 +1,8 @@
-# Ineuron DevOps Assesment
+# Ineuron DevOps Assessment
 
 ## Introduction
 
-The repository contains the Ineuron DevOps assesment. The assesment contains 3 question's. **Take any one question and complete it.**
+The repository contains the Ineuron DevOps assessment. The assessment contains 3 question's. **Take any one question and complete it.**
 
 
 ## Assesment
@@ -75,10 +75,10 @@ The repository contains the Ineuron DevOps assesment. The assesment contains 3 q
 ## How to Submit?
 
 * DEADLINE: 6th December 2022, Tuesday
-* You will recieve a google form for sharing the github link.Please make sure that your assesment should be uploaded in the github and free of plagarism.
+* You will recieve a google form for sharing the github link.Please make sure that your assessment should be uploaded in the github and free of plagarism.
 * You will be removed if any plagarism is founded!
 * All resources taken from official docs are allowed!
 
 ## Questions: 
 
-If you have any questions about assesment or you feel stuck, feel free to ask me at [Ritesh](mailto:ritesh@ineuron.ai). Please do not hesitate to ask questions. I am here to help you. :)
+If you have any questions about assessment or you feel stuck, feel free to ask me at [Ritesh](mailto:ritesh@ineuron.ai). Please do not hesitate to ask questions. I am here to help you. :)

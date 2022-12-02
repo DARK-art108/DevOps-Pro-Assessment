@@ -1,4 +1,4 @@
-# Ineuron DevOps Assessment
+# INeuron DevOps Assessment
 
 ## Introduction
 
